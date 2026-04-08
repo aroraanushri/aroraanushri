@@ -31,4 +31,4 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/aroraanushri/])
