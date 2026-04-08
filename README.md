@@ -8,7 +8,6 @@
 
 ## 🚀 Tech Stack
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,java,mysql,ros,opencv,pytorch,sklearn,linux,git,github,bash,vscode,html,css,&perline=7" />
 </p>
 
