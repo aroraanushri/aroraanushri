@@ -9,17 +9,8 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,ros,opencv,pytorch,sklearn,linux,docker,git,github,bash,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,ros,opencv,pytorch,sklearn,linux,git,github,bash,vscode,html,css,&perline=7" />
 </p>
-
----
-
-## 🧠 Currently Learning
-
-- ROS2 (Humble)
-- Computer Vision for Robotics
-- Reinforcement Learning
-- Robotics Perception Systems
 
 ---
 
