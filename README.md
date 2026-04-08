@@ -23,13 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroraanushri&layout=compact&theme=tokyonight)
-
----
-
 ## 💻 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lGMAQda47R?theme=dark&font=baloo)
