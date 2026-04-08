@@ -15,7 +15,7 @@
 
 ## 💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/lGMAQda47R?theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aroraanushri?theme=dark&font=baloo)
 
 ---
 
