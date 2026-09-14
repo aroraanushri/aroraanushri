@@ -13,12 +13,6 @@
 
 ---
 
-## 💻 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/aroraanushri?theme=dark&font=baloo)
-
----
-
 ## 🌐 Connect with me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/aroraanushri/])
